@@ -1,0 +1,3 @@
+ - analytics data of [@cdnjs/atom-extension](https://github.com/cdnjs/atom-extension) repository
+  - From May 7 2014 to Feb 19 2016 (https://github.com/cdnjs/atom-extension/commit/ff70857d441cc571743c00ee17a32a296438a1a2 to https://github.com/cdnjs/atom-extension/commit/bb728422ca23649e061f335d468cb94526b31879)
+ - using [@tomgi/git_stats](https://github.com/tomgi/git_stats) + [@yize/html-minify](https://github.com/yize/html-minify) + [optipng](http://optipng.sourceforge.net/)
